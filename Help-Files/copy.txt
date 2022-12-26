@@ -1,0 +1,20 @@
+
+=============================
+Welcome to Copy Command Help
+=============================
+
+Command Syntax:
+		copy (Source File)(Destination File)
+
+Working:
+		This Command Helps Us to Copy THe Content of Source FIle
+		and Put it in the Destination FIle in Append Mode (Previous
+		Data Not Deleted)
+
+Use:
+		copy A.txt B.txt
+		copy A.c B.c
+
+
+===Thanks for Using Help===
+========End of Help========

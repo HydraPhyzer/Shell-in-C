@@ -1,0 +1,23 @@
+
+=============================
+Welcome to CD Command Help
+=============================
+
+Command Syntax:
+		cd (Directory Name)
+
+Working:
+		This Command Helps Us to Change the Directory
+		In Forward or Backword Way
+
+Use:
+		cd Folder#0
+		cd Folder#1
+
+COmmands Supported:
+
+		cd (Folder Name)
+		cd ..
+
+===Thanks for Using Help===
+========End of Help========

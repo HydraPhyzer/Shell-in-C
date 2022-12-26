@@ -1,0 +1,25 @@
+
+===========================
+Welcome to PWD Command Help
+===========================
+
+Command Syntax:
+		pwd
+
+Full Form:
+		Abbrevation of this Command is (Present Working Directory)
+
+Use:
+     		This Command is Basically use to print Working Directory
+		int Which You Are Currently Working
+
+Output Sample:
+		/home/User-Name/Desktop/Folder/File.txt
+
+Disclamer:
+		This Command Sometimes is Often Reffered as CWD 
+		(Current Working Directory)
+
+
+===Thanks for Using Help===
+========End of Help========

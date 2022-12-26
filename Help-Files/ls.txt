@@ -1,0 +1,17 @@
+
+=============================
+Welcome to Ls Command Help
+=============================
+
+Command Syntax:
+		ls
+
+Working:
+		This Command is Used to View the List of FIles and Folder in
+		Same DIrectory
+
+Use:
+		ls (NO Spaces)
+
+===Thanks for Using Help===
+========End of Help========

@@ -1,0 +1,25 @@
+
+=============================
+Welcome to Deldir Command Help
+=============================
+
+Command Syntax:
+		deldir (Directory name)
+
+Working:
+		This Command Helps Us to Delete the Folder From
+		Current Folder , Where We Are In Currently.
+
+Use:
+		deldir A
+		deldir B
+		deldir Shell
+
+Disclamer:
+		This Command Only Deletes the Folder , Only Use is to 
+		Delete Folders. BE CAREFULL !! . This Wont Delete the Folder
+		if it is not Empty.
+
+
+===Thanks for Using Help===
+========End of Help========

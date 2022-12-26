@@ -1,0 +1,24 @@
+
+=============================
+Welcome to Cat Command Help
+=============================
+
+Command Syntax:
+		cat (File Name) . . . . 
+		cat > (File Name)
+
+Working:
+		This Command Helps Us to Read the Content of File 
+		or to Enter the Data into File Terough Terminal 
+
+Use:
+		cat A.txt B.txt
+		cat > C.txt
+	
+DIsclamer:
+		For (cat > (File Namee)) After Entering the Data in File
+		use CTRL+D to Stop Writing.
+
+
+===Thanks for Using Help===
+========End of Help========

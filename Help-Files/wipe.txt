@@ -1,0 +1,20 @@
+
+===========================
+Welcome to WIPE Command Help
+===========================
+
+Command Syntax:
+		wipe
+
+Use:
+     		This Command is Basically use to Wipe up the Whole 
+		Screen of Terminal. Makes Everything Clear on Shell.
+
+Disclamer:
+		This Command Works Similar to The "cls" Command that Works 
+		in Command Prompt in Windows and "clear" Command that Works 
+		on Ubuntu Terminal as Well
+
+
+===Thanks for Using Help===
+========End of Help========

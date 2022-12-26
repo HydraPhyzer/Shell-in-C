@@ -1,0 +1,18 @@
+
+=============================
+Welcome to Echo Command Help
+=============================
+
+Command Syntax:
+		echo (Arguments) 
+
+Working:
+		This Command Helps Us to Display the Arguments
+		Passed to THe Echo Command
+
+Use:
+		cat Hello World
+		cat "HY I AM ECHO"
+
+===Thanks for Using Help===
+========End of Help========

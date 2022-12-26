@@ -1,0 +1,19 @@
+
+=============================
+Welcome to Crdir Command Help
+=============================
+
+Command Syntax:
+		crdir (Folder name)
+
+Working:
+		This Command Helps Us to Create the Folder on the Same 
+		DIrectory Where We Are.
+
+Use:
+		crdir A
+		crdir B
+		crdir Shell
+
+===Thanks for Using Help===
+========End of Help========

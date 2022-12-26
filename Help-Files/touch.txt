@@ -1,0 +1,19 @@
+
+=============================
+Welcome to Touch Command Help
+=============================
+
+Command Syntax:
+		touch (File name) . . . .
+
+Working:
+		This Command Helps Us to Create Files in
+		any Extension in Same Folder.
+
+Use:
+		touch A.txt
+		touch B.txt
+		touch C.txt
+
+===Thanks for Using Help===
+========End of Help========

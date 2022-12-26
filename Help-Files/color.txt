@@ -1,0 +1,33 @@
+
+=============================
+Welcome to Color Command Help
+=============================
+
+Command Syntax:
+		color (color name)
+
+Working:
+		This Command Helps Us to Change the Foreground Color
+		or The Typing Color
+
+Use:
+		color red
+		color blue
+
+Colors Supported:
+		Black
+		Red
+		Green
+		Yellow
+		Blue
+		Magenta
+		Cyan
+		White
+
+Disclamer:
+		This Command Only Changes Foreground Color. Don't Use it
+		to Change Background Color
+
+
+===Thanks for Using Help===
+========End of Help========

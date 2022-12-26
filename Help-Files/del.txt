@@ -1,0 +1,24 @@
+
+=============================
+Welcome to Del Command Help
+=============================
+
+Command Syntax:
+		del (File name)
+
+Working:
+		This Command Helps Us to Delete the File From
+		Current Folder , Where We Are Currently.
+
+Use:
+		del A.txt
+		del B.txt
+		del Shell.c
+
+Disclamer:
+		This Command Only Deletes the Files , Only Use is to 
+		Delete Fles. BE CAREFULL !!.
+
+
+===Thanks for Using Help===
+========End of Help========
